@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErickHirooka;
 - 🌱 I’m currently learning java;
-- 📫 How to reach me hirookaerick@gmail.com;
-- ⚡ Fun fact: im a table tennis athlete;
+- 📫 How to reach me: hirookaerick@gmail.com;
+- ⚡ Fun fact: I'm a table tennis athlete;
 
 <!---
 ErickHirooka/ErickHirooka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
